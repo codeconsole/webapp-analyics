@@ -9,7 +9,7 @@
     <groupId>org.codeconsole</groupId>
     <artifactId>webapp-analytics</artifactId>
     <name>Webapp Analytics</name>
-    <version>0.6.1-SNAPSHOT</version>
+    <version>0.6.1.RELEASE</version>
 
 	<organization>
 		<name>CodeConsole.org</name>
